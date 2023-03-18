@@ -1,0 +1,6 @@
+namespace SeasonProject.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
